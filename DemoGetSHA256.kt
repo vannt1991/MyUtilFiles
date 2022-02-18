@@ -8,8 +8,6 @@ import javax.security.cert.CertificateEncodingException
 import javax.xml.bind.DatatypeConverter
 
 
-
-
 /**
  * You can edit, run, and share this code.
  * play.kotlinlang.org
